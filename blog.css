@@ -23,6 +23,7 @@ body{
     margin: 0 auto;
     font-weight:bold ;
     padding: 0.5em;
+    border-radius: 20px;
 }
 #cabecera #tagline{
     padding: 0 0 0 1em;
