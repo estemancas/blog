@@ -62,3 +62,7 @@ body{
     vertical-align: middle;
     outline-color: blueviolet;
 }
+
+#video {
+    align-items: center;
+}
